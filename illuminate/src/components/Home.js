@@ -4,7 +4,7 @@ const Home =()=> {
     
 <>
 <div className='divmain'>
-    <h1 className='h1main mt-5 pt-5'>Welcome to Illuminate </h1> 
+    <h1 className='h1main mt-5 pt-5'>Welcome to Illuminate Sumanth Reddy </h1> 
     </div>
     </>  
     
